@@ -1,3 +1,3 @@
 # Socail Application
 
-Build using gradle build tool
+Built using gradle build tool
